@@ -3,10 +3,10 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=Sketchy2.Sketchy2&color=00cf00)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🔥 Code Crafter and Tech Trailblazer
-- 🏂 Loves Snowboarding
-- 🏆 Competitive Like No tomorrow
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 Monash University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 November 2025
+- 🔥 𝙲𝚘𝚍𝚎 𝙲𝚛𝚊𝚏𝚝𝚎𝚛 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑 𝚃𝚛𝚊𝚒𝚕𝚋𝚕𝚊𝚣𝚎𝚛
+- 🏂 𝙻𝚘𝚟𝚎𝚜 𝚂𝚗𝚘𝚠𝚋𝚘𝚊𝚛𝚍𝚒𝚗𝚐
+- 🏆 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙻𝚒𝚔𝚎 𝙽𝚘 𝚃𝚘𝚖𝚘𝚛𝚛𝚘𝚠
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙼𝚘𝚗𝚊𝚜𝚑 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙽𝚘𝚟𝚎𝚖𝚋𝚎𝚛 2025
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -15,21 +15,21 @@
 - Working as a Data and Operations Analyst!
 - Preparing for next semester of University!
 ```
-  - My main project right now is creating a dashboard website through the Dash library with Python.  [View Repository Here!](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+  - 𝙼𝚢 𝚖𝚊𝚒𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠 𝚒𝚜 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚊 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚝𝚑𝚎 𝙳𝚊𝚜𝚑 𝚕𝚒𝚋𝚛𝚊𝚛𝚢 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗.  [𝚅𝚒𝚎𝚠 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝙷𝚎𝚛𝚎!](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-  - Travel Overseas
+  - 𝚃𝚛𝚊𝚟𝚎𝚕 𝙾𝚟𝚎𝚛𝚜𝚎𝚊𝚜
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-  - Snowboard down Black Diamond slopes 😨
-  - Study Abroad 
-  - Get an internship overseas!
+  - 𝚂𝚗𝚘𝚠𝚋𝚘𝚊𝚛𝚍 𝚍𝚘𝚠𝚗 𝙱𝚕𝚊𝚌𝚔 𝙳𝚒𝚊𝚖𝚘𝚗𝚍 𝚜𝚕𝚘𝚙𝚎𝚜 😨
+  - 𝚂𝚝𝚞𝚍𝚢 𝙰𝚋𝚛𝚘𝚊𝚍 
+  - 𝙶𝚎𝚝 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚘𝚟𝚎𝚛𝚜𝚎𝚊𝚜!
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 New Commit in [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
-2. 🔒 New Commit in [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
-3. 🔒 New Commit in [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
-4. 🔒 New Commit in [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
-5. 🔒 New Commit in [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+1. 🔒 𝙽𝚎𝚠 𝙲𝚘𝚖𝚖𝚒𝚝 𝚒𝚗 [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+2. 🔒 𝙽𝚎𝚠 𝙲𝚘𝚖𝚖𝚒𝚝 𝚒𝚗 [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+3. 🔒 𝙽𝚎𝚠 𝙲𝚘𝚖𝚖𝚒𝚝 𝚒𝚗 [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+4. 🔒 𝙽𝚎𝚠 𝙲𝚘𝚖𝚖𝚒𝚝 𝚒𝚗 [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
+5. 🔒 𝙽𝚎𝚠 𝙲𝚘𝚖𝚖𝚒𝚝 𝚒𝚗 [Go-Karting-Dashboard-Project](https://github.com/Sketchy2/Go-Karting-Dashboard-Project)
 <!--END_SECTION:activity-->
 
 
@@ -38,4 +38,3 @@
 
 [<img src="https://raw.githubusercontent.com/Sketchy2/Sketchy2/master/Socials/linkedin-icon.png" height="40em" align="center" alt="Follow Mitchell on LinkedIn" title="Follow Mitchell on LinkedIn"/>](https://www.linkedin.com/in/mitchell-whitten-847365233/)
 [<img src="https://raw.githubusercontent.com/Sketchy2/Sketchy2/master/Socials/twitter-icon.png" height="40em" align="center" alt="Follow Mitchell on Twitter" title="Follow Mitchell on Twitter"/>](https://twitter.com/SketchyR6)
-[<img src="https://raw.githubusercontent.com/Sketchy2/Sketchy2/master/Socials/instagram-icon.png" height="40em" align="center" alt="Follow Mitchell on Instagram" title="Follow Mitchell on Instagram"/>](https://www.instagram.com/mltchellwhitten/)
