@@ -7,7 +7,7 @@
 - 🏂 𝙻𝚘𝚟𝚎𝚜 𝚂𝚗𝚘𝚠𝚋𝚘𝚊𝚛𝚍𝚒𝚗𝚐
 - 🏆 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙻𝚒𝚔𝚎 𝙽𝚘 𝚃𝚘𝚖𝚘𝚛𝚛𝚘𝚠
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙼𝚘𝚗𝚊𝚜𝚑 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙽𝚘𝚟𝚎𝚖𝚋𝚎𝚛 2025
-- 👨‍💼 [View my Resume here!](https://raw.githubusercontent.com/Sketchy2/Sketchy2/main/Mitchell_s_Resume.pdf)
+- 👨‍💼 <a href = https://raw.githubusercontent.com/Sketchy2/Sketchy2/main/Mitchell_s_Resume.pdf target ="_blank">View My Resume Here!</a>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
